@@ -187,7 +187,7 @@ pipeline {
 #### Ход работы
 - Копирование репозитория https://github.com/xDesh4ka
 - Создание pipeline с параметрами STUDENT_NAME=Ruslan, PORT=8057
-- Установка опции GitHub hook trigger for GITScm polling
+- Установка опции `GitHub hook trigger for GITScm polling`
 - [Конфигурация](http://158.160.194.244:8080/job/AbaidullinRuslan/configure)
 - Создание вебхука 
 <img width="980" height="891" alt="image" src="https://github.com/user-attachments/assets/1ab6eee7-d16f-4a54-8396-7453db64036d" />
