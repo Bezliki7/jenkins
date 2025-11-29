@@ -181,3 +181,17 @@ pipeline {
 6. Убедитесь, что GitHub webhook корректно сработал, и Jenkins автоматически запустил повторную сборку.
 
 ***
+
+
+## Отчет
+#### Ход работы
+- Копирование репозитория https://github.com/xDesh4ka
+- Создание pipeline с параметрами STUDENT_NAME=Ruslan, PORT=8057
+- Установка опции GitHub hook trigger for GITScm polling
+- [Конфигурация](http://158.160.194.244:8080/job/AbaidullinRuslan/configure)
+- Создание вебхука 
+<img width="980" height="891" alt="image" src="https://github.com/user-attachments/assets/1ab6eee7-d16f-4a54-8396-7453db64036d" />
+- Комиты для проверки pipiline
+<img width="688" height="668" alt="image" src="https://github.com/user-attachments/assets/5f078814-553f-4041-972d-83f782632491" />
+
+
